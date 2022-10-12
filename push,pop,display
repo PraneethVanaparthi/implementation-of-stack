@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 void push(){
 int val;
-struct node*ptr=(structnode*)malloc(size of(struct node);
+struct node*ptr=(struct node*)malloc(size of(struct node));
 if(ptr==null){
 printf("not able to push the elements");
 }else{
@@ -49,4 +50,3 @@ pop();
 display();
 return 0;
 }
-
